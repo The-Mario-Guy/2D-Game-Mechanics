@@ -1,2 +1,2 @@
-# 2D Game Mechanics
+# 2D Game Mechanics 
  
