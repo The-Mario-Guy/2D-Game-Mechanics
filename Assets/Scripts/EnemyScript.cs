@@ -7,6 +7,7 @@ public class EnemyScript : MonoBehaviour
     public float Speed = 1;
     private Rigidbody2D _enemyRb;
     private GameObject _player;
+    public GameObject enemyFx;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,5 +23,13 @@ public class EnemyScript : MonoBehaviour
         //Teels the Enemy to look at the Player's position. Afterwords Force is applied to the Enemy towards the Player's Position 
         Vector2 lookDirection = (_player.transform.position - transform.position).normalized;
         _enemyRb.AddForce(lookDirection * Speed);
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+      if(other.gameObject.CompareTag("OoB"))
+      {
+          Instantiate(enemyFx, transform.position, enemyFx.transform.rotation);
+          Destroy(this.gameObject);
+      }
     }
 }
