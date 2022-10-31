@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -32,6 +33,8 @@ public class PlayerMovement : MonoBehaviour
       {
           Instantiate(playerFx, transform.position, playerFx.transform.rotation);
           Destroy(this.gameObject);
+          gameObject.SetActive(false);
+          SceneManager.LoadScene(0);
       }
     }
     

@@ -51,3 +51,6 @@ TagManager:
   - name: Explosion
     uniqueID: 482300671
     locked: 0
+  - name: Logo
+    uniqueID: 2887165109
+    locked: 0
