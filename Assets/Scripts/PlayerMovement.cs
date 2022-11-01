@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
   public float xRange = 3;
  public float yRange = 2.5f;
  public GameObject playerFx;
+ public GameObject powerUpIndicator;
+ public bool hasPowerUp = false;
   private Rigidbody2D _playerRb;
     // Start is called before the first frame update
     void Start()
@@ -36,6 +38,20 @@ public class PlayerMovement : MonoBehaviour
           gameObject.SetActive(false);
           SceneManager.LoadScene(0);
       }
+      if(other.gameObject.CompareTag("PowerUp"))
+      {
+        Destroy(other.gameObject);
+        powerUpIndicator.gameObject.SetActive(true);
+        hasPowerUp = true;
+      }
+      IEnumerator PowerupCountdownRoutine()
+    {
+      //yield = wait
+      yield return new WaitForSeconds(2);
+      powerUpIndicator.gameObject.SetActive(false);
+      StartCoroutine(PowerupCountdownRoutine());
+      hasPowerUp = false;
+    }
     }
     
 }
