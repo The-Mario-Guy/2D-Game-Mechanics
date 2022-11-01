@@ -44,7 +44,8 @@ public class PlayerMovement : MonoBehaviour
         powerUpIndicator.gameObject.SetActive(true);
         hasPowerUp = true;
       }
-      IEnumerator PowerupCountdownRoutine()
+    }
+    IEnumerator PowerupCountdownRoutine()
     {
       //yield = wait
       yield return new WaitForSeconds(2);
@@ -52,6 +53,4 @@ public class PlayerMovement : MonoBehaviour
       StartCoroutine(PowerupCountdownRoutine());
       hasPowerUp = false;
     }
-    }
-    
 }
