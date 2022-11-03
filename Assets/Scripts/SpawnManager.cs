@@ -14,8 +14,9 @@ public class SpawnManager : MonoBehaviour
     void Start()
     {
         SpawnEnemyWave(Wavecount);
-         // Spanws the Enemey in a random location in between the positions listed in line 26 and 27
-         // Instantiate(EnemyPrefab, GenerateSpawnPosition(), EnemyPrefab.transform.rotation);
+         // Spanws the power up in a random location in between the positions listed in line 35 and 36
+          Instantiate(PowerUpPrefab, GenerateSpawnPosition(), PowerUpPrefab.transform.rotation);
+          
     }
 
     // Update is called once per frame
@@ -28,6 +29,7 @@ public class SpawnManager : MonoBehaviour
             Wavecount++;
             //Wavecount = Wavecount + 1; also does the same thing (same with Wavecount--;)
             SpawnEnemyWave(Wavecount);
+            Instantiate(PowerUpPrefab, GenerateSpawnPosition(), PowerUpPrefab.transform.rotation);
         }
     }
     private Vector2 GenerateSpawnPosition()

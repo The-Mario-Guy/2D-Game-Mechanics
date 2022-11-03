@@ -20,9 +20,9 @@ public class EnemyScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Teels the Enemy to look at the Player's position. Afterwords Force is applied to the Enemy towards the Player's Position 
-        Vector2 lookDirection = (_player.transform.position - transform.position).normalized;
-        _enemyRb.AddForce(lookDirection * Speed);
+        //Tells the Enemy to look at the Player's position. Afterwords Force is applied to the Enemy towards the Player's Position 
+       Vector2 lookDirection = (_player.transform.position - transform.position).normalized;
+       _enemyRb.AddForce(lookDirection * Speed);
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
