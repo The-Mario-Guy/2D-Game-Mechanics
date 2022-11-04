@@ -6,8 +6,8 @@ public class SpawnManager : MonoBehaviour
 {
     public GameObject EnemyPrefab;
     public GameObject PowerUpPrefab;
-    public float xRange = 3;
-    public float yRange = 2.5f;
+    public float xRange = 5;
+    public float yRange = 2.56f;
     public int EnemyCount;
     public int Wavecount = 1;
     // Start is called before the first frame update

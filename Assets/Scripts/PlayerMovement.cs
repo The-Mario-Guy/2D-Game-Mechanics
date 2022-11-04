@@ -11,14 +11,18 @@ public class PlayerMovement : MonoBehaviour
  public float powerUpStrength = 0.2f;
  public GameObject playerFx;
  public GameObject powerUpIndicator;
+
  public bool hasPowerUp = false;
   private Rigidbody2D _playerRb;
+  private SpriteRenderer _playerSR;
+    
     // Start is called before the first frame update
     void Start()
     {
         _playerRb = GetComponent<Rigidbody2D>();
      float spawnXPos = Random.Range(-xRange , xRange);
-        float spawnYPos = Random.Range(-yRange, yRange);
+      float spawnYPos = Random.Range(-yRange, yRange);
+      _playerSR = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -34,9 +38,7 @@ public class PlayerMovement : MonoBehaviour
     {
       if(other.gameObject.CompareTag("OoB"))
       {
-          Instantiate(playerFx, transform.position, playerFx.transform.rotation);
-          gameObject.SetActive(false);
-          SceneManager.LoadScene(0);
+          StartCoroutine(DeadRoutine());
       }
       if(other.gameObject.CompareTag("PowerUp"))
       {
@@ -65,5 +67,16 @@ public class PlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(5);
         powerUpIndicator.gameObject.SetActive(false);
         hasPowerUp = false;
+    }
+    IEnumerator DeadRoutine()
+    {
+     Instantiate(playerFx, transform.position, playerFx.transform.rotation);
+     powerUpIndicator.gameObject.SetActive(false);
+     hasPowerUp = false;
+     //Unity tells the Sprite renderer that this Sprite's renderer is false (there is no _playerSR.disabled)
+     _playerSR.enabled = false;
+     //gameObject.SetActive(false); (if this is started in the middle of code the program won't finish)
+      yield return new WaitForSeconds(1);
+      SceneManager.LoadScene(0);
     }
 }
