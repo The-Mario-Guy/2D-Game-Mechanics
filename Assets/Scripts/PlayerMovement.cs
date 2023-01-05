@@ -33,6 +33,11 @@ public class PlayerMovement : MonoBehaviour
         //Allows for movement to be made
         Vector2 direction = new Vector2(horizontalInput, verticalInput);
         _playerRb.AddForce(direction * speed);
+        
+        if(Input.GetKey(KeyCode.Z))
+        {
+          _playerRb.AddForce(direction * speed);
+        }
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -79,4 +84,5 @@ public class PlayerMovement : MonoBehaviour
       yield return new WaitForSeconds(1);
       SceneManager.LoadScene(0);
     }
+   
 }
