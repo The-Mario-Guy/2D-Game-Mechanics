@@ -41,9 +41,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Players
-    uniqueID: 415302747
-    locked: 0
   - name: BG
     uniqueID: 4248089209
     locked: 0
@@ -52,6 +49,9 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Players
+    uniqueID: 415302747
     locked: 0
   - name: Explosion
     uniqueID: 482300671

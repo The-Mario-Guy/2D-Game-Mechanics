@@ -21,4 +21,8 @@ public void LoadNextScene()
         Application.Quit();
     }
     
+    public void LoadXScene()
+    {
+        SceneManager.LoadScene(0);
+    }
 }
