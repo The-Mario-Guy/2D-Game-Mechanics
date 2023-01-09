@@ -82,7 +82,7 @@ public class PlayerMovement : MonoBehaviour
      _playerSR.enabled = false;
      //gameObject.SetActive(false); (if this is started in the middle of code the program won't finish)
       yield return new WaitForSeconds(1);
-      SceneManager.LoadScene(0);
+      SceneManager.LoadScene(6);
     }
    
 }
