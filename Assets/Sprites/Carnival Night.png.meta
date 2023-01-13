@@ -1,0 +1,4930 @@
+fileFormatVersion: 2
+guid: 1dbffe505340df84f83d1280fcb33ca1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 28
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carnival Night_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642bcb6950ccf7147a9c26173e7e4c6c
+      internalID: -543139349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbf385933a5618468cb76289e9129e7
+      internalID: 1460419644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ae6a4cb10fe0740bd2c12cc4bf77b3
+      internalID: 1953129930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383710ab5ff507469b695e66458ba56
+      internalID: 268436680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc783c124ad3f48bdf2e8a38f55787
+      internalID: -1471123173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1635
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321df6b3dadef74c9c129790440a6d0
+      internalID: 1690251502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1506
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9a578788e8a2e49ab7cf7f2168efac
+      internalID: -1265928582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1506
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03421292d6ff3b418a8335d70557878
+      internalID: -226801898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1506
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf92b493241e945adc24d03eb644d9
+      internalID: -1879449223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1506
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5509307ef9c454fb353543602bc9f9
+      internalID: 1298002699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c12f632a63ab949b3f6cf889bf2084
+      internalID: 1756435328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_11
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1526
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ead8b904249ea458dc1690a89814ce
+      internalID: -1617791290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1526
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e208dcd30f7801f418696970be0ad9f4
+      internalID: 1917222216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_13
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1526
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d2c60d1cb18894abffb1e40fb95a3f
+      internalID: -1449190325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_14
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1542
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d83ed473086e8c49b47fffd4f46f110
+      internalID: 1086353411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1377
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134975eeddbe62e4c8b63dd23748a1b9
+      internalID: 2035375695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1377
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eeb8a9c1006454398a3b9b3f240b13
+      internalID: -1415322751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1377
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd6811199f25740928b471e178fda9
+      internalID: 1874045813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1377
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025124119c571ec43b124b5366312a13
+      internalID: 2145085768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1477
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17da657602edee74d8bea75967dcb402
+      internalID: -1949516398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_20
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1397
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e66b0f45557243ae4093552df38ad
+      internalID: 1181055234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1397
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a064e950af25c4a982d8b2be8c4d59
+      internalID: -2038087624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1397
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba09ff346e9ec24a8288f7a3fd8ef3f
+      internalID: -1763903575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_23
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1477
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5751657811a557f43ab10ee3df22c1e6
+      internalID: 993813530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_24
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1a48c2206518445ab85d1f76e1c754
+      internalID: 7486742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_25
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1413
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a723e3708f1ba664b8167842887b7a27
+      internalID: -405560771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc54c26b3352646a592a30548bdae3
+      internalID: 299520377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1ff32fe6da21349aabee7c2e7f234a
+      internalID: -61237151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_28
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7366ea2e80a3a441963f5746d3a3887
+      internalID: -1430873430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_29
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1248
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5ec9fa82f9dd04bae65e5e987e706a
+      internalID: 1008567024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_30
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90bc5ee1a1b028342af5230919b800c0
+      internalID: -675934180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_31
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0bae51e57d06c4eaba441d8df9fe9a
+      internalID: 1276025015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_32
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1324
+        width: 128
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737ba8ccffa81074293ba04cb65bf272
+      internalID: 272771413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_33
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a66f80d6469bef45b975ad7cc17c5dd
+      internalID: -1928423532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_34
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1348
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723bf0add8541648b4fecd98296c085
+      internalID: -1980579194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1317
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcb8b423decff348ac0eaae20f4935b
+      internalID: -610627353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_36
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1317
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf0a02ff65b9f44894c362493805b9
+      internalID: -699203994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1301
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cde2428008c437458d26dce3bf21087
+      internalID: -1275979682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_38
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1308
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f4da51f93f48e44b39cd0cffa54d50
+      internalID: 1522023672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_39
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1301
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dfdc0c3aa5cba478e8c3dd3cec93e4
+      internalID: 391896889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_40
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec98502299870148ba056694a518ff5
+      internalID: 406420205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_41
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1170
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f536e2758710e4dbe1df8a33d32d70
+      internalID: -900847811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_42
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1247
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f79bfb43a808749baa4de31da8595c
+      internalID: 2146440361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1255
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fb77b4253938c488ebad5a5c78113b
+      internalID: 262930146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1116
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19f89b8a95d6394688f359d1f575b33
+      internalID: -137805530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1178
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92c5376ee52c643bf203c54e85409c
+      internalID: 1226971613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_46
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1113
+        width: 127
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c31cd490228fd438c82f591363a29d
+      internalID: 849879805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_47
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1114
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca6b10cd4c6aec42bf19d1a0c87b851
+      internalID: 1502862958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1044
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4791cb2883c178342acb0826f0f4ba59
+      internalID: 1772118585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1044
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6431605cdfbbd074886d529f040d5d37
+      internalID: 975697299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1045
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cfd2dc92731804786d6a1671abf9ba
+      internalID: -9350878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1045
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d42bcfdd8617fa41b3ff8a01f1b8735
+      internalID: -1350299242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1049
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad05276e9d01ce4a85625db5011d57c
+      internalID: 1681142647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 984
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a33438b77eb7340bcb9d635c696e03
+      internalID: -1291091543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 984
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64958b1cc624ca14a8c09f2dd047054b
+      internalID: 1856007485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_55
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b18e8149d321d429ff7c8dc9a75ca6
+      internalID: 1863227943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_56
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1041
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae89f5f4e96e274bb637dd2f347f7fc
+      internalID: -357387046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 973
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5b9ee162a95f458e11d01f0874ba6
+      internalID: -103282428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_58
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 973
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69354f4656c6d7f4fa355b768c858521
+      internalID: 405502616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 973
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e35af35ce2fe548966a6c13ed0e7ff
+      internalID: 1532578691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 973
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf3905c3b13ccf4da790329dba67b57
+      internalID: -997786076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 984
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad177d3e1694396468c93407552ea8f6
+      internalID: 1737298504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_62
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f2276192f90414b8e4791aeb0708a4
+      internalID: -334045685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_63
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 912
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547a093af0f7cf42aaa0f929605b78f
+      internalID: -2137434964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_64
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 889
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8b0b2ab96a9df449fdc23676a04f00
+      internalID: -1271586353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 901
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7885558e2130845aced579ecb5d3e6
+      internalID: 1136797648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_66
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 901
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3beddecbf4873942acbdd22a876588a
+      internalID: 154796703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_67
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 901
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3aa9a84cf56e4d932073eb0db9831
+      internalID: 639168017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_68
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 901
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a9b26e2f090f14dbb673ddf3b5d54c
+      internalID: -181730180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_69
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 855
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5a2d6b9b00f514580b376fbbb3d6ab
+      internalID: 198008932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 854
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09568e177124ece439c9adcedc916956
+      internalID: -2021552347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 856
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09346270395a524d9ff64f13712c95e
+      internalID: 320046424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_72
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 783
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc5d9c2f2280cc48a67ec015edbb3a4
+      internalID: -738777158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_73
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 783
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df2510636449a84fbe11e91ab1122c9
+      internalID: 1259429850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 854
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8320ec21a37a41743bd8841cfed11b50
+      internalID: 952940122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 853
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7d765f57524e848bc9da0c53fcf68c
+      internalID: 463272123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 801
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34774758cdb8e545a057be8d1baa52a
+      internalID: 1527271670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_77
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 787
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a9a2f5e402bb942ba10fd39530ec5c
+      internalID: 726167393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_78
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 787
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8407c0c6fa59fe4a83c9d774e2f3968
+      internalID: 615229025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_79
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 787
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178db56a295916b4eab7a8ef00b92034
+      internalID: -734253847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_80
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 787
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92aa2f221a89164cb1bf45831edde08
+      internalID: 186254244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 766
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12928e532b4a46f469fa1b7f39527bb7
+      internalID: -1024727726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 652
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3acacdcaba9c4d8aee477560d7bf2
+      internalID: -483615682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_83
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 652
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce6831bb8b103f49a190b94f0ec247f
+      internalID: 1093759687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_84
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 652
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7172936af094704389eb8147aa3f9a8
+      internalID: 801181316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_85
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 652
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372fc0f51df339f459773a9d0fda5059
+      internalID: -1543178257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_86
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 652
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e99381b5aeba49ac3e61adbae9b7e
+      internalID: -365619684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_87
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 652
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e667c6dea220fc24ca6022281dbb62fc
+      internalID: -443931791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a1cb833811e074b83ad674b9b341ed
+      internalID: 1054784440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746bd10793b629d4582985d625a97fd2
+      internalID: 1570898145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_90
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621caa40fda2a7e4f871fad0b45ecf42
+      internalID: 220148353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_91
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a845f9bf372242833b3c77bbc64cc
+      internalID: 1611957101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_92
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 523
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e0309d04d0bd94d9c94db56683e1e7
+      internalID: -889337602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_93
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 523
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870783018ed23b64d8526a743ba95059
+      internalID: 928210346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_94
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 408
+        width: 70
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af76ee21ef01baf4290a8b6b0cff597c
+      internalID: -1860134858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_95
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 408
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44d430bc99d3a44e86132251b1d5ba5
+      internalID: -680195756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762b75a6d79424848bc5bcbc7c67009d
+      internalID: -2031588359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_97
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282116c9861c4a45ba6a93247d94c36
+      internalID: -571057344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_98
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f948faf5c7b84f951f32aa3f7c6c4
+      internalID: -1368436029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_99
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4622ce1ae096f254f89a0c3450441e3c
+      internalID: -1042641988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_100
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4c814b33a8dd40bdb65b1e5e07aa3
+      internalID: -945939143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_101
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 394
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ef0017baa042b4288e90f925d104a8
+      internalID: -1435864513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_102
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 279
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0aed970d4b4e44d91b88fde705347a
+      internalID: -1636480178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_103
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 279
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c36c3522329cc6469b637c4a5a45fbb
+      internalID: -1492210314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 266
+        width: 127
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c41b6682b75742989dadbf2b9dd5b
+      internalID: -310480690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_105
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 266
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4510f44f51c7c04e8d2026d3ee949a1
+      internalID: 1818364348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_106
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 136
+        width: 128
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7e849d2283584ebb1923a009edcd1
+      internalID: -552539930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_107
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 268
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dd5fcebc80d3746a9dce3caac3d180
+      internalID: 729030468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_108
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cef9282ce8f6d1478114a6eb3c48921
+      internalID: 1698259038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_109
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 252
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5cde57fa4e3a24596f0df39d21022e
+      internalID: -953699475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_110
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 150
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839084c8dc51cf439219e2f0ce2ea0c
+      internalID: -197772006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_111
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 150
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d9dc7ad870ba14096c0a2d0d8d5d71
+      internalID: 89824303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 136
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883dfcd6a16acb408d56c1cbf56415a
+      internalID: -1687050236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_113
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 136
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f58a5245f994674cb7ee652e0478b8c
+      internalID: 200484582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 69
+        width: 128
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7549dc04211038a49b2aab6eff87b655
+      internalID: -1593872365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_115
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 215
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47061f49001e8641bb2d0be0018ad75
+      internalID: 989825376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_116
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 146
+        width: 128
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a505b7d9099d14ea87a20688585008
+      internalID: 477616030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_117
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 146
+        width: 128
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba93cd3594dcd0469fdbd93e80c6cea
+      internalID: -731266860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_118
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 20
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93adb68291e82184bbc65d7c99a0fa08
+      internalID: -300196462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_119
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 21
+        width: 128
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8269bd5920ea034eae3fe25ce88ef67
+      internalID: -1195491851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_120
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 124
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f851f78c28c70d04c9472791ba9f9d37
+      internalID: 193828406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_121
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 124
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef411f37711fbc4e8dae60304cce20b
+      internalID: -602301509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_122
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 119
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d1a726ea95ed46ad6374e7f48d294
+      internalID: 913561416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_123
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 119
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cff54d8fbc189b4188781cff3323860
+      internalID: -219664995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_124
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 116
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04accf76b565bce45a9c14a049387fa9
+      internalID: 217706918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 116
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e01a4abc33ab33498dda39ccbacd010
+      internalID: 1726239281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_126
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d9a24e8f47be246b1f79e75cb4a91f
+      internalID: -1461435255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_127
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b97435148da7549b4e1c41ff2ab9fd
+      internalID: -1079580378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_128
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c955b00cabdc78e42bde051a19539090
+      internalID: -494863507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_129
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d1469cf04d37747b4dcac924718da5
+      internalID: 96685168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_130
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 108
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9cf658a775d744a8b5dbdd05dd0130
+      internalID: -1528291865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_131
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9579455a82bbf9e44a492eeebca609d4
+      internalID: -1915967806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_132
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0032adc466f571549b1b2018d8f6612f
+      internalID: -1765487962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_133
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 100
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8b7b5011a7d342a26c29869091f0d
+      internalID: 1734210442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_134
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 100
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840495f2064b6e409944aee09ef5b28
+      internalID: -1953427776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_135
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 100
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e4567e3a84eba418859a59fac0b912
+      internalID: -213643639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_136
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 100
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4bd601b5c02a44b3f1e30e04f3f2e
+      internalID: -795157053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 100
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9999e1cee9f084ab381b8be8613a01
+      internalID: -102084673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_138
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be73285a4263b24586d34980d9c41e4
+      internalID: 1555140572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_139
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 92
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b60c2d8a5e592419a154e7914a48c8
+      internalID: 1781280855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 91
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c6b241e9adb1468258b7f45743d36
+      internalID: 1373420220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_141
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 92
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87fa142d9ef2b24089110995f22f673
+      internalID: -690071402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_142
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 92
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dfd52492efb1346903f72e513bde8c
+      internalID: -1586533765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_143
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 91
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d4e633e0487fd4da0808ad2f797512
+      internalID: 2118002036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_144
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 92
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267c4b980f382ec4aa4567a7fdbdfe02
+      internalID: 65400279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_145
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 92
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720d7877af5fc740b79e028d6db9155
+      internalID: -1884569467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_146
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 84
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fd5e2a24dd96844a67e46f7e08b173
+      internalID: -1145293730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 84
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9aeb962adf71bc4f945d909136b5631
+      internalID: 2088126522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_148
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bfb2332fefb5043a59afe88c28816e
+      internalID: -1481580147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_149
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec441e03664f7742b4e61a14178ab60
+      internalID: -1602275754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_150
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 84
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8175c3b8726f499cee5ce60483342
+      internalID: -1248440262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_151
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 76
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef11722d1348bc48a114f0bce98bf75
+      internalID: 2138350025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_152
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 84
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37b9e1a01af87240a335f11cb27a76e
+      internalID: 871859719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_153
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 84
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84ac522745967e44a6d35263279b77d
+      internalID: 166375388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_154
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30466f35c8fc453478d0a5b312219a7c
+      internalID: 274549801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_155
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ad4a4b019b4564ab7f4f0d3bfd8f3e
+      internalID: 787914692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_156
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 75
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aadced111142c4fb84113147551d0b
+      internalID: -972116268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_157
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 75
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0e563d1ec0cf42afcb5c639fbee30
+      internalID: -1288717031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_158
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 75
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db770fbae1183b46b2b781a7c0ecc2d
+      internalID: -1022402709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_159
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 75
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40554781d34886549b9f5cc32a6c1a0f
+      internalID: 688703614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_160
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 76
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c4363b2dc79f4789910740b98ccf2
+      internalID: 1924811038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_161
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 57
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce399116e39daa7459c9e040f9f222f5
+      internalID: 343592988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_162
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 60
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b5a7ad17bad79499f37722f4299887
+      internalID: -1367955596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_163
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3fdfaa322af154b8096de2ce340d25
+      internalID: -842656327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_164
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 60
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d0d67c588b77d4a9b9b08104815794
+      internalID: -1362906084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_165
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 68
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f71689bbc6fc8418309515fe7e258b
+      internalID: 2070178046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_166
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 60
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fcf48f93e7f74cba105016aeae876
+      internalID: -580931161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_167
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 60
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40f31134dcaad14f9e8535e604ea017
+      internalID: -854867445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_168
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 68
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1702dbc8529cc40b071186bb6738aa
+      internalID: 214006162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_169
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 60
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54179a219e079408f15f9e9275bb0d
+      internalID: -1201273178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_170
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 68
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de1110ab053c0c4f862bef49c66610a
+      internalID: 1937325939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_171
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 60
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75fea705c6147c45995e98f2a3767d8
+      internalID: -1016069241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_172
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 59
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae06021c8382d46bda56fe2ed2e56b
+      internalID: -1415211208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_173
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef899201c2cdc88438fa082acb5be5b1
+      internalID: 1712230897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_174
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 59
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf44a97f1e15f48b73d90cb74ad1d8
+      internalID: 1164790833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_175
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 59
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19982a031724d24d9daeb50dc31bae5
+      internalID: 437738932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_176
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 51
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf6224b095b4174c8e137370bf07317
+      internalID: 2120975680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_177
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 52
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546d4b74cc27b0040b76359788453adf
+      internalID: 1851751821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_178
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e47c4f6ed59ea409a4a9365ed33d22
+      internalID: 45697629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_179
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 52
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7cefc24bf2f3942882854a8b7d58ad
+      internalID: 627065463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_180
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 52
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b525ddce7920128438db7124447ef71a
+      internalID: 225062059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_181
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 44
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b91808407cd0f49afd7fb1f721e352
+      internalID: -1142390807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_182
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 52
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b329405f0ca6f2a4782a48ebfa2f5bc3
+      internalID: 306732683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_183
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 51
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa0449dd4bafdf47adb4dcb63a5c131
+      internalID: 1384869754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_184
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 43
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b081fd935c132ed488ae77ce16996d54
+      internalID: -8150749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_185
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 43
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca1b48725167441834163b97f99a4d
+      internalID: -1876396593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_186
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dabfdf0c9534446a7a99e40940ec79
+      internalID: -1020892782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_187
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 43
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af294c0b403a9d841a9d91360affb2e8
+      internalID: 1474712627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_188
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 43
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2ae5e818096a34d877f2b10290a313
+      internalID: 1332391819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_189
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 43
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1cd10e669c9a40bd56642fb3bfde5
+      internalID: -726161115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_190
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4bc7d04bbae74f9bb4afb40433485
+      internalID: 2138157346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_191
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20a252b2e855d94a896734c9294980b
+      internalID: -61666744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_192
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 36
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762014b7d9f3ea746bd6f9e9b4698a1c
+      internalID: 1427816243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_193
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 35
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33e6ea5551fefa46acf8ac7de80aef2
+      internalID: -1788659376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_194
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 35
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f713b29c79d40374dab62f0682c51509
+      internalID: 1270421197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_195
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 36
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc1b79b338ae14b95d9af187e25f72
+      internalID: 745499011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_196
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 35
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb426078018cd54089ae488c9a35e53
+      internalID: 1843942911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_197
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69db7182267f194438ebccdfee5c6664
+      internalID: 370223469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_198
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a6821b2d662f468ef8bc72185edf1
+      internalID: -371635359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_199
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 27
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3fb617811843499cde55bf4b27536
+      internalID: -560987940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_200
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2a50140265f20428a2160f41564fd4
+      internalID: -879717006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_201
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee064c1ff6869fe478a37bf677838ba8
+      internalID: -1547977011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_202
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 27
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9e304c22764314b99d95fa064aa360
+      internalID: -1208209299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_203
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 27
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37a6b2a8d3205342b84d821020bc5b5
+      internalID: -711489058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_204
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822478e60e3ab94b9bedd36a7245a72
+      internalID: 1585307500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_205
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 19
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e28d15a9d59f5458f975901e93e05c
+      internalID: -129058550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_206
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8418669bc1398479397b49eecac169
+      internalID: 773601436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_207
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05003fe89bd71849823b0fffa67eca9
+      internalID: -60820843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_208
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 19
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c42dbed95f1d44384ba08068702b57
+      internalID: 2094233087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_209
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 20
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcc82f145bc8d244b9fd8a0b23f0793
+      internalID: -191947037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_210
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 11
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb08d979c3f5cb43ad586bc0f337864
+      internalID: 1683094759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_211
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493ec9b100c783e42b29dfc81c27a3e5
+      internalID: -881111665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_212
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3786a641cad9dc0419723b0217d57833
+      internalID: -1670146649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_213
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0d81db6fef4945b0068f8a5a3a6e2
+      internalID: -1789703234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_214
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1002
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a50e10b91f58642aedc8d64544ad5c
+      internalID: -967906127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_215
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 777
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc88b772fa3e6445948b35ec2e6c054
+      internalID: 1881289994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_216
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1616
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e610f1263f67564bbcc7584bd4e3da1
+      internalID: -1492630825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carnival Night_217
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1616
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7bcbc02b827a4eb380fa06b06c44a
+      internalID: 2044849649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Carnival Night_35: -610627353
+      Carnival Night_15: 2035375695
+      Carnival Night_23: 993813530
+      Carnival Night_19: -1949516398
+      Carnival Night_4: -1471123173
+      Carnival Night_98: -1368436029
+      Carnival Night_72: -738777158
+      Carnival Night_190: 2138157346
+      Carnival Night_86: -365619684
+      Carnival Night_167: -854867445
+      Carnival Night_204: 1585307500
+      Carnival Night_128: -494863507
+      Carnival Night_18: 2145085768
+      Carnival Night_49: 975697299
+      Carnival Night_124: 217706918
+      Carnival Night_137: -102084673
+      Carnival Night_139: 1781280855
+      Carnival Night_155: 787914692
+      Carnival Night_215: 1881289994
+      Carnival Night_50: -9350878
+      Carnival Night_125: 1726239281
+      Carnival Night_62: -334045685
+      Carnival Night_42: 2146440361
+      Carnival Night_39: 391896889
+      Carnival Night_33: -1928423532
+      Carnival Night_166: -580931161
+      Carnival Night_5: 1690251502
+      Carnival Night_130: -1528291865
+      Carnival Night_164: -1362906084
+      Carnival Night_201: -1547977011
+      Carnival Night_70: -2021552347
+      Carnival Night_143: 2118002036
+      Carnival Night_105: 1818364348
+      Carnival Night_104: -310480690
+      Carnival Night_52: 1681142647
+      Carnival Night_78: 615229025
+      Carnival Night_14: 1086353411
+      Carnival Night_6: -1265928582
+      Carnival Night_73: 1259429850
+      Carnival Night_13: -1449190325
+      Carnival Night_53: -1291091543
+      Carnival Night_127: -1079580378
+      Carnival Night_191: -61666744
+      Carnival Night_212: -1670146649
+      Carnival Night_214: -967906127
+      Carnival Night_92: -889337602
+      Carnival Night_77: 726167393
+      Carnival Night_119: -1195491851
+      Carnival Night_106: -552539930
+      Carnival Night_100: -945939143
+      Carnival Night_142: -1586533765
+      Carnival Night_91: 1611957101
+      Carnival Night_181: -1142390807
+      Carnival Night_148: -1481580147
+      Carnival Night_11: -1617791290
+      Carnival Night_66: 154796703
+      Carnival Night_55: 1863227943
+      Carnival Night_112: -1687050236
+      Carnival Night_41: -900847811
+      Carnival Night_165: 2070178046
+      Carnival Night_60: -997786076
+      Carnival Night_56: -357387046
+      Carnival Night_48: 1772118585
+      Carnival Night_34: -1980579194
+      Carnival Night_38: 1522023672
+      Carnival Night_24: 7486742
+      Carnival Night_94: -1860134858
+      Carnival Night_59: 1532578691
+      Carnival Night_172: -1415211208
+      Carnival Night_51: -1350299242
+      Carnival Night_140: 1373420220
+      Carnival Night_183: 1384869754
+      Carnival Night_26: 299520377
+      Carnival Night_28: -1430873430
+      Carnival Night_10: 1756435328
+      Carnival Night_168: 214006162
+      Carnival Night_79: -734253847
+      Carnival Night_162: -1367955596
+      Carnival Night_129: 96685168
+      Carnival Night_193: -1788659376
+      Carnival Night_64: -1271586353
+      Carnival Night_81: -1024727726
+      Carnival Night_170: 1937325939
+      Carnival Night_93: 928210346
+      Carnival Night_202: -1208209299
+      Carnival Night_69: 198008932
+      Carnival Night_174: 1164790833
+      Carnival Night_96: -2031588359
+      Carnival Night_177: 1851751821
+      Carnival Night_180: 225062059
+      Carnival Night_102: -1636480178
+      Carnival Night_152: 871859719
+      Carnival Night_211: -881111665
+      Carnival Night_46: 849879805
+      Carnival Night_108: 1698259038
+      Carnival Night_83: 1093759687
+      Carnival Night_101: -1435864513
+      Carnival Night_132: -1765487962
+      Carnival Night_74: 952940122
+      Carnival Night_184: -8150749
+      Carnival Night_117: -731266860
+      Carnival Night_160: 1924811038
+      Carnival Night_25: -405560771
+      Carnival Night_45: 1226971613
+      Carnival Night_1: 1460419644
+      Carnival Night_175: 437738932
+      Carnival Night_150: -1248440262
+      Carnival Night_146: -1145293730
+      Carnival Night_156: -972116268
+      Carnival Night_113: 200484582
+      Carnival Night_197: 370223469
+      Carnival Night_153: 166375388
+      Carnival Night_179: 627065463
+      Carnival Night_196: 1843942911
+      Carnival Night_37: -1275979682
+      Carnival Night_3: 268436680
+      Carnival Night_118: -300196462
+      Carnival Night_40: 406420205
+      Carnival Night_21: -2038087624
+      Carnival Night_205: -129058550
+      Carnival Night_195: 745499011
+      Carnival Night_185: -1876396593
+      Carnival Night_151: 2138350025
+      Carnival Night_2: 1953129930
+      Carnival Night_144: 65400279
+      Carnival Night_67: 639168017
+      Carnival Night_71: 320046424
+      Carnival Night_8: -1879449223
+      Carnival Night_95: -680195756
+      Carnival Night_141: -690071402
+      Carnival Night_194: 1270421197
+      Carnival Night_17: 1874045813
+      Carnival Night_163: -842656327
+      Carnival Night_217: 2044849649
+      Carnival Night_9: 1298002699
+      Carnival Night_47: 1502862958
+      Carnival Night_213: -1789703234
+      Carnival Night_30: -675934180
+      Carnival Night_206: 773601436
+      Carnival Night_89: 1570898145
+      Carnival Night_85: -1543178257
+      Carnival Night_99: -1042641988
+      Carnival Night_109: -953699475
+      Carnival Night_149: -1602275754
+      Carnival Night_187: 1474712627
+      Carnival Night_126: -1461435255
+      Carnival Night_145: -1884569467
+      Carnival Night_207: -60820843
+      Carnival Night_203: -711489058
+      Carnival Night_133: 1734210442
+      Carnival Night_7: -226801898
+      Carnival Night_173: 1712230897
+      Carnival Night_12: 1917222216
+      Carnival Night_80: 186254244
+      Carnival Night_43: 262930146
+      Carnival Night_147: 2088126522
+      Carnival Night_32: 272771413
+      Carnival Night_16: -1415322751
+      Carnival Night_103: -1492210314
+      Carnival Night_36: -699203994
+      Carnival Night_216: -1492630825
+      Carnival Night_120: 193828406
+      Carnival Night_138: 1555140572
+      Carnival Night_63: -2137434964
+      Carnival Night_116: 477616030
+      Carnival Night_97: -571057344
+      Carnival Night_136: -795157053
+      Carnival Night_154: 274549801
+      Carnival Night_54: 1856007485
+      Carnival Night_61: 1737298504
+      Carnival Night_115: 989825376
+      Carnival Night_159: 688703614
+      Carnival Night_161: 343592988
+      Carnival Night_123: -219664995
+      Carnival Night_200: -879717006
+      Carnival Night_176: 2120975680
+      Carnival Night_107: 729030468
+      Carnival Night_44: -137805530
+      Carnival Night_169: -1201273178
+      Carnival Night_178: 45697629
+      Carnival Night_122: 913561416
+      Carnival Night_134: -1953427776
+      Carnival Night_82: -483615682
+      Carnival Night_131: -1915967806
+      Carnival Night_189: -726161115
+      Carnival Night_210: 1683094759
+      Carnival Night_87: -443931791
+      Carnival Night_58: 405502616
+      Carnival Night_88: 1054784440
+      Carnival Night_111: 89824303
+      Carnival Night_158: -1022402709
+      Carnival Night_110: -197772006
+      Carnival Night_192: 1427816243
+      Carnival Night_188: 1332391819
+      Carnival Night_198: -371635359
+      Carnival Night_199: -560987940
+      Carnival Night_20: 1181055234
+      Carnival Night_27: -61237151
+      Carnival Night_186: -1020892782
+      Carnival Night_76: 1527271670
+      Carnival Night_31: 1276025015
+      Carnival Night_121: -602301509
+      Carnival Night_0: -543139349
+      Carnival Night_208: 2094233087
+      Carnival Night_29: 1008567024
+      Carnival Night_57: -103282428
+      Carnival Night_157: -1288717031
+      Carnival Night_209: -191947037
+      Carnival Night_75: 463272123
+      Carnival Night_84: 801181316
+      Carnival Night_65: 1136797648
+      Carnival Night_68: -181730180
+      Carnival Night_182: 306732683
+      Carnival Night_135: -213643639
+      Carnival Night_114: -1593872365
+      Carnival Night_90: 220148353
+      Carnival Night_171: -1016069241
+      Carnival Night_22: -1763903575
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
